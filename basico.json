@@ -1,0 +1,41 @@
+[
+  {
+    "page-title": "M.M. Foto",
+    "text-intro": "Murilo Moser Fotografía, Muito Prazer!",
+    "text-main": "Juntos, Vamos Eternizar as Lembranças de Seu Evento ou Sua Marca!",
+    "text-descr": "Fotografía de casamentos, feiras, eventos, ensaios, campanhas e muito mais! Veja meu portfólio..",
+    "img-icon": "https://servictor.github.io/templateflask/images/icon1.svg",
+    "img-animation": "https://servictor.github.io/templateflask/images/icon2.svg",
+    "portfolio-cards": [
+      {
+        "title": "Eventos",
+        "subtitle": "Fotografia de Ambiente",
+        "image": [
+          "https://servictor.github.io/templateflask/images/portfolio/",
+          "https://servictor.github.io/templateflask/images/portfolio/"
+        ],
+        "order": 1
+      },
+      {
+        "title": "Casamentos",
+        "subtitle": "Fotografia de Casamentos",
+        "image": [
+          "https://servictor.github.io/templateflask/images/portfolio/",
+          "https://servictor.github.io/templateflask/images/portfolio/"
+        ],
+        "order": 1
+      },
+      {
+        "title": "Eventos",
+        "subtitle": "Fotografia de Ambiente",
+        "image": [
+          "https://servictor.github.io/templateflask/images/portfolio/",
+          "https://servictor.github.io/templateflask/images/portfolio/"
+        ],
+        "order": 1
+      }
+    ],
+    "services-cards": [],
+    "pricing-cards": []
+  }
+]
