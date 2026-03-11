@@ -1,0 +1,62 @@
+{
+  "textsandlinks": {
+    "PageTitle": "M.M. Foto",
+    "TextIntro": "Fotógrafo Murilo Moser, Muito Prazer!",
+    "TextMain": "Juntos, Vamos Eternizar as Lembranças de Seu Momento!",
+    "TextDescr": "Fotografía de casamentos, feiras, eventos, ensaios, campanhas e muito mais! Veja meu portfólio..",
+    "ImgIcon": "https://servictor.github.io/templateflask/images/icon1.svg",
+    "ImgAnimation": "https://servictor.github.io/templateflask/images/icon2.svg",
+    "MailTo": "murilomoser@gamil.com",
+    "ImgPop": "https://servictor.github.io/templateflask/images/icon2.svg"
+  },
+  "portfolio": [
+    {
+      "Title": "Eventos",
+      "Subtitle": "Fotografia de Ambiente",
+      "Image": [
+        "https://servictor.github.io/templateflask/images/portfolio/",
+        "https://servictor.github.io/templateflask/images/portfolio/"
+      ],
+      "Order": 1
+    },
+    {
+      "Title": "Eventos",
+      "Subtitle": "Fotografia de Ambiente",
+      "Image": [
+        "https://servictor.github.io/templateflask/images/portfolio/",
+        "https://servictor.github.io/templateflask/images/portfolio/"
+      ],
+      "Order": 1
+    },
+    {
+      "Title": "Eventos",
+      "Subtitle": "Fotografia de Ambiente",
+      "Image": [
+        "https://servictor.github.io/templateflask/images/portfolio/",
+        "https://servictor.github.io/templateflask/images/portfolio/"
+      ],
+      "Order": 1
+    }
+  ],
+  "services": [
+    {
+      "title": "Casamentos e Eventos",
+      "subtitle": "Pacotes com até mil fotos tiradas, buscando sempre os melhores enquadramentos de seus eventos.",
+      "image": "https://servictor.github.io/templateflask/images/services/eventos.wpeg",
+      "order": 1
+    },
+    {
+      "title": "Decorações",
+      "subtitle": "Fotos de ambientes e decorações, para enaltecer as redes sociais da sua marca.",
+      "image": "https://servictor.github.io/templateflask/images/services/decoracoes.wpeg",
+      "order": 2
+    },
+    {
+      "title": "Produtos",
+      "subtitle": "Fotos de catálogos do seu e-commerce, organizadas e customizadas.",
+      "image": "https://servictor.github.io/templateflask/images/services/produtos.wpeg",
+      "order": 3
+    }
+  ],
+  "pricing": []
+}
