@@ -42,19 +42,25 @@
     {
       "title": "Casamentos e Eventos",
       "subtitle": "Pacotes com até mil fotos tiradas, buscando sempre os melhores enquadramentos de seus eventos.",
-      "image": "https://servictor.github.io/templateflask/images/services/eventos.wpeg",
+      "image": "https://servictor.github.io/templateflask/images/servicos/casamento.jpg",
       "order": 1
     },
     {
       "title": "Decorações",
       "subtitle": "Fotos de ambientes e decorações, para enaltecer as redes sociais da sua marca.",
-      "image": "https://servictor.github.io/templateflask/images/services/decoracoes.wpeg",
+      "image":"https://servictor.github.io/templateflask/images/servicos/decoracao.jpeg",
       "order": 2
     },
     {
       "title": "Produtos",
       "subtitle": "Fotos de catálogos do seu e-commerce, organizadas e customizadas.",
-      "image": "https://servictor.github.io/templateflask/images/services/produtos.wpeg",
+      "image": "https://servictor.github.io/templateflask/images/servicos/produtos.jpg",
+      "order": 3
+    },
+    {
+      "title": "Feiras",
+      "subtitle": "Diaras em feiras e eventos corporativos, possibilidade de deslocamento.",
+      "image": "https://servictor.github.io/templateflask/images/servicos/feiras.jpg",
       "order": 3
     }
   ],
