@@ -4,10 +4,10 @@
     "TextIntro": "Fotógrafo Murilo Moser, Muito Prazer!",
     "TextMain": "Juntos, Vamos Eternizar as Lembranças de Seu Momento!",
     "TextDescr": "Fotografía de casamentos, feiras, eventos, ensaios, campanhas e muito mais! Veja meu portfólio..",
-    "ImgIcon": "https://servictor.github.io/templateflask/images/icone.png",
-    "ImgAnimation": "https://servictor.github.io/templateflask/images/icone.png",
-    "ImgPortf": "https://servictor.github.io/templateflask/images/icone.png",
-    "ImgPop": "https://servictor.github.io/templateflask/images/icone.png",
+    "ImgIcon": "/img/Gw3v/icon/original.png",
+    "ImgAnimation": "/img/Gw3v/icon/original.png",
+    "ImgPortf": "/img/Gw3v/icon/original.png",
+    "ImgPop": "/img/Gw3v/icon/original.png",
     "MailTo": "murilomoser@gamil.com"
   },
   "portfolio": [
@@ -15,11 +15,11 @@
       "Title": "Eventos",
       "Subtitle": "Fotografia de Eventos",
       "Image": [
-        "https://servictor.github.io/templateflask/images/portfolio/007.jpg",
-        "https://servictor.github.io/templateflask/images/portfolio/008.jpg",
-        "https://servictor.github.io/templateflask/images/portfolio/026.jpg",
-        "https://servictor.github.io/templateflask/images/portfolio/029.jpg",
-        "https://servictor.github.io/templateflask/images/portfolio/059.jpg"
+        "/img/2Gmq/portfolioA1/original.jpeg",
+        "/img/PKHd/portfolioA2/original.jpeg",
+        "/img/VF3G/portfolioA3/original.jpeg",
+        "/img/Gh0M/portfolioA4/original.jpeg",
+        "/img/sVsu/portfolioA5/original.jpeg"
       ],
       "Order": 1
     },
@@ -27,11 +27,11 @@
       "Title": "Pessoas",
       "Subtitle": "Fotografia de Pessoas",
       "Image": [
-        "https://images.unsplash.com/photo-1610212570473-6015f631ae96?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-        "https://images.unsplash.com/photo-1606838830438-5f380a664a4e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80",
-        "https://images.unsplash.com/photo-1606059100151-b09b22709477?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1778&q=80",
-        "https://images.unsplash.com/photo-1603048675767-6e79ff5b8fc1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-        "https://images.unsplash.com/photo-1595433502559-d8f05e6a1041?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+        "/img/guQw/PortfolioC1/original.jpeg",
+        "/img/ejq0/PortfolioC2/original.jpeg",
+        "/img/QYWs/PortfolioC3/original.jpeg",
+        "/img/9LIU/PortfolioC4/original.jpeg",
+        "/img/9Hna/PortfolioC5/original.jpeg"
       ],
       "Order": 1
     },
@@ -49,25 +49,25 @@
     {
       "title": "Casamentos e Eventos",
       "subtitle": "Pacotes com até mil fotos tiradas, buscando sempre os melhores enquadramentos de seus eventos.",
-      "image": "https://servictor.github.io/templateflask/images/servicos/casamento.jpg",
+      "image": "/img/VwQl/srvcs-casamento/original.jpeg",
       "order": 1
     },
     {
       "title": "Decorações",
       "subtitle": "Fotos de ambientes e decorações, para enaltecer as redes sociais da sua marca.",
-      "image":"https://servictor.github.io/templateflask/images/servicos/decoracao.jpeg",
+      "image":"/img/vfHx/srvcs-decoracao/original.jpeg",
       "order": 2
     },
     {
       "title": "Produtos",
       "subtitle": "Fotos de catálogos do seu e-commerce, organizadas e customizadas.",
-      "image": "https://servictor.github.io/templateflask/images/servicos/produtos.jpg",
+      "image": "/img/WbYL/srvcs-produtos/original.jpeg",
       "order": 3
     },
     {
       "title": "Feiras",
       "subtitle": "Diaras em feiras e eventos corporativos, possibilidade de deslocamento.",
-      "image": "/img/RPXT/feiras/original.jpeg",
+      "image": "/img/Sm6o/srvcs-feiras/original.jpeg",
       "order": 3
     }
   ],
