@@ -67,7 +67,7 @@
     {
       "title": "Feiras",
       "subtitle": "Diaras em feiras e eventos corporativos, possibilidade de deslocamento.",
-      "image": "https://servictor.github.io/templateflask/images/servicos/feiras.jpg",
+      "image": "/img/RPXT/feiras/original.jpeg",
       "order": 3
     }
   ],
