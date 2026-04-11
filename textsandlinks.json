@@ -34,15 +34,6 @@
         "/img/9Hna/PortfolioC5/original.jpeg"
       ],
       "Order": 1
-    },
-    {
-      "Title": "Eventos",
-      "Subtitle": "Fotografia de Ambiente",
-      "Image": [
-        "https://servictor.github.io/templateflask/images/portfolio/",
-        "https://servictor.github.io/templateflask/images/portfolio/"
-      ],
-      "Order": 1
     }
   ],
   "services": [
