@@ -5,7 +5,7 @@
 
     "slug": "test-blog-post",
     "title": "Test Blog Post",
-    "body_file": "posts/test-blog-post.html",
+    "body_file": "test-blog-post.html",
 
     "published": true,
     "featured": false,
@@ -26,7 +26,7 @@
 
     "slug": "second-post",
     "title": "Second Post",
-    "body_file": "posts/second-post.html",
+    "body_file": "second-post.html",
 
     "published": false,
     "featured": false,
