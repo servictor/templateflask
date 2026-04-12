@@ -1,0 +1,43 @@
+[
+  {
+    "process-update": true,
+    "delete-post-word": null,
+
+    "slug": "test-blog-post",
+    "title": "Test Blog Post",
+    "body_file": "posts/test-blog-post.html",
+
+    "published": true,
+    "featured": false,
+
+    "category": {
+      "name": "Tech",
+      "slug": "tech"
+    },
+
+    "tags": [
+      { "name": "Flask", "slug": "flask" }
+    ]
+  },
+
+  {
+    "process-update": true,
+    "delete-post-word": null,
+
+    "slug": "second-post",
+    "title": "Second Post",
+    "body_file": "posts/second-post.html",
+
+    "published": false,
+    "featured": false,
+
+    "category": {
+      "name": "Business",
+      "slug": "business"
+    },
+
+    "tags": [
+      { "name": "Startup", "slug": "startup" }
+    ]
+  }
+]
