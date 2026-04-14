@@ -7,6 +7,10 @@
     "title": "Test Blog Post",
     "body_file": "test-blog-post.html",
 
+    "thumb_url":"/img/5QMm/seo-image-example/",
+    "thumb_alt":"Esta é a descrição da imagem, no caso é a imagem menor, para testar com os tipos de thumb.",
+    "author":"Victor",
+    
     "published": true,
     "featured": false,
 
@@ -27,6 +31,10 @@
     "slug": "second-post",
     "title": "Second Post",
     "body_file": "second-post.html",
+
+    "thumb_url":"/img/x1mY/seo-blog-writing/",
+    "thumb_alt":"Esta imagem original é maior que a outra.",
+    "author":"Victor",
 
     "published": false,
     "featured": false,
