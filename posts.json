@@ -36,7 +36,7 @@
     "thumb_alt":"Esta imagem original é maior que a outra.",
     "author":"Victor",
 
-    "published": false,
+    "published": true,
     "featured": false,
 
     "category": {
@@ -47,5 +47,80 @@
     "tags": [
       { "name": "Startup", "slug": "startup" }
     ]
-  }
+  },
+  {
+  "process-update": true,
+  "delete-post-word": null,
+
+  "slug": "boosting-product-sales-seo",
+  "title": "Boosting Product Sales with SEO",
+  "body_file": "boosting-product-sales-seo.html",
+
+  "thumb_url": "/img/5QMm/seo-sales/",
+  "thumb_alt": "Illustration representing SEO improving product sales visibility.",
+  "author": "Victor",
+  
+  "published": true,
+  "featured": false,
+
+  "category": {
+    "name": "Marketing",
+    "slug": "marketing"
+  },
+
+  "tags": [
+    { "name": "SEO", "slug": "seo" },
+    { "name": "Sales", "slug": "sales" }
+  ]
+},
+  {
+  "process-update": true,
+  "delete-post-word": null,
+
+  "slug": "seo-attract-customers-ecommerce",
+  "title": "Using SEO to Attract Customers to Your Ecommerce",
+  "body_file": "seo-attract-customers-ecommerce.html",
+
+  "thumb_url": "/img/5QMm/seo-ecommerce/",
+  "thumb_alt": "Ecommerce store interface optimized for search engines.",
+  "author": "Victor",
+  
+  "published": true,
+  "featured": false,
+
+  "category": {
+    "name": "Ecommerce",
+    "slug": "ecommerce"
+  },
+
+  "tags": [
+    { "name": "SEO", "slug": "seo" },
+    { "name": "Ecommerce", "slug": "ecommerce" }
+  ]
+},
+  {
+  "process-update": true,
+  "delete-post-word": null,
+
+  "slug": "seo-focused-product-sites",
+  "title": "Sites Focused on Selling Products with SEO",
+  "body_file": "seo-focused-product-sites.html",
+
+  "thumb_url": "/img/5QMm/seo-structure/",
+  "thumb_alt": "Website structure designed for SEO and product conversion.",
+  "author": "Victor",
+  
+  "published": true,
+  "featured": false,
+
+  "category": {
+    "name": "Web Development",
+    "slug": "web-development"
+  },
+
+  "tags": [
+    { "name": "SEO", "slug": "seo" },
+    { "name": "Web Design", "slug": "web-design" }
+  ]
+}
 ]
