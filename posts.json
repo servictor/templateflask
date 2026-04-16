@@ -1,6 +1,6 @@
 [
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "test-blog-post",
         "title": "Test Blog Post",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "second-post",
         "title": "Second Post",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "boosting-product-sales-seo",
         "title": "Boosting Product Sales with SEO",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "seo-attract-customers-ecommerce",
         "title": "Using SEO to Attract Customers to Your Ecommerce",
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "seo-focused-product-sites",
         "title": "Sites Focused on Selling Products with SEO",
