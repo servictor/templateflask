@@ -120,5 +120,83 @@
                 "slug": "web-design"
             }
         ]
+    },
+    {
+        "process-update": false,
+        "delete-post-word": null,
+        "slug": "minimal-ecommerce-niche-validation",
+        "title": "Minimal E-commerce Structure to Validate Profitable Niches",
+        "body_file": "minimal-ecommerce-niche-validation.html",
+        "thumb_url": "/img/x1aP/minimal-ecommerce/",
+        "thumb_alt": "Simple e-commerce website used to validate niche demand.",
+        "author": "Victor",
+        "published": true,
+        "featured": false,
+        "category": {
+            "name": "Web Development",
+            "slug": "web-development"
+        },
+        "tags": [
+            {
+                "name": "E-commerce",
+                "slug": "e-commerce"
+            },
+            {
+                "name": "SEO",
+                "slug": "seo"
+            }
+        ]
+    },
+    {
+        "process-update": false,
+        "delete-post-word": null,
+        "slug": "finding-seo-topics-in-forums",
+        "title": "How to Find SEO Topics in Forums Based on Your Niche",
+        "body_file": "finding-seo-topics-in-forums.html",
+        "thumb_url": "/img/f9Kq/forum-seo/",
+        "thumb_alt": "Researching SEO topics in online forums for niche content ideas.",
+        "author": "Victor",
+        "published": true,
+        "featured": false,
+        "category": {
+            "name": "Web Development",
+            "slug": "web-development"
+        },
+        "tags": [
+            {
+                "name": "SEO",
+                "slug": "seo"
+            },
+            {
+                "name": "Content Strategy",
+                "slug": "content-strategy"
+            }
+        ]
+    },
+    {
+        "process-update": false,
+        "delete-post-word": null,
+        "slug": "best-seo-html-structure",
+        "title": "Best HTML Structure for SEO and Content Performance",
+        "body_file": "best-seo-html-structure.html",
+        "thumb_url": "/img/pL8z/html-seo/",
+        "thumb_alt": "Clean HTML structure optimized for SEO and readability.",
+        "author": "Victor",
+        "published": true,
+        "featured": false,
+        "category": {
+            "name": "Web Development",
+            "slug": "web-development"
+        },
+        "tags": [
+            {
+                "name": "SEO",
+                "slug": "seo"
+            },
+            {
+                "name": "HTML",
+                "slug": "html"
+            }
+        ]
     }
 ]
