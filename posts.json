@@ -122,7 +122,7 @@
         ]
     },
     {
-        "process-update": false,
+        "process-update": true,
         "delete-post-word": null,
         "slug": "minimal-ecommerce-niche-validation",
         "title": "Minimal E-commerce Structure to Validate Profitable Niches",
@@ -148,7 +148,7 @@
         ]
     },
     {
-        "process-update": false,
+        "process-update": true,
         "delete-post-word": null,
         "slug": "finding-seo-topics-in-forums",
         "title": "How to Find SEO Topics in Forums Based on Your Niche",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "process-update": false,
+        "process-update": true,
         "delete-post-word": null,
         "slug": "best-seo-html-structure",
         "title": "Best HTML Structure for SEO and Content Performance",
