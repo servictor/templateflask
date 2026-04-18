@@ -44,7 +44,7 @@
         ]
     },
     {
-        "process-update": false,
+        "process-update": true,
         "delete-post-word": null,
         "slug": "boosting-product-sales-seo",
         "title": "Boosting Product Sales with SEO",
@@ -53,7 +53,7 @@
         "thumb_alt": "Illustration representing SEO improving product sales visibility.",
         "author": "Victor",
         "published": true,
-        "featured": false,
+        "featured": true,
         "category": {
             "name": "Marketing",
             "slug": "marketing"
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "minimal-ecommerce-niche-validation",
         "title": "Minimal E-commerce Structure to Validate Profitable Niches",
@@ -148,7 +148,7 @@
         ]
     },
     {
-        "process-update": true,
+        "process-update": false,
         "delete-post-word": null,
         "slug": "finding-seo-topics-in-forums",
         "title": "How to Find SEO Topics in Forums Based on Your Niche",
@@ -178,12 +178,12 @@
         "delete-post-word": null,
         "slug": "best-seo-html-structure",
         "title": "Best HTML Structure for SEO and Content Performance",
-        "body_file": "/img/GjLT/seo-e-commerce-notebook/",
-        "thumb_url": "/img/pL8z/html-seo/",
+        "body_file": "best-seo-html-structure.html",
+        "thumb_url": "/img/GjLT/seo-e-commerce-notebook/",
         "thumb_alt": "Clean HTML structure optimized for SEO and readability.",
         "author": "Victor",
         "published": true,
-        "featured": false,
+        "featured": true,
         "category": {
             "name": "Web Development",
             "slug": "web-development"
