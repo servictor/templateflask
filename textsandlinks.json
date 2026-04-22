@@ -1,14 +1,14 @@
 {
   "textsandlinks": {
-    "PageTitle": "M.M. Foto",
-    "TextIntro": "Fotógrafo Murilo Moser, Muito Prazer!",
+    "PageTitle": "S.N. Foto",
+    "TextIntro": "Sou o fotógrafo Seu Nome, Muito Prazer!",
     "TextMain": "Juntos, Vamos Eternizar as Lembranças de Seu Momento!",
     "TextDescr": "Fotografía de casamentos, feiras, eventos, ensaios, campanhas e muito mais! Veja meu portfólio..",
-    "ImgIcon": "/img/Gw3v/icon/original.png",
-    "ImgAnimation": "/img/Gw3v/icon/original.png",
-    "ImgPortf": "/img/Gw3v/icon/original.png",
-    "ImgPop": "/img/Gw3v/icon/original.png",
-    "MailTo": "murilomoser@gamil.com"
+    "ImgIcon": "/img/W6xt/fotografo/original.png",
+    "ImgAnimation": "/img/W6xt/fotografo/original.png",
+    "ImgPortf": "/img/W6xt/fotografo/original.png",
+    "ImgPop": "/img/W6xt/fotografo/original.png",
+    "MailTo": "clientedefoto@gamil.com"
   },
   "portfolio": [
     {
